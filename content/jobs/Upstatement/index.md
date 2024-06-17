@@ -1,6 +1,6 @@
 ---
 date: '2018-05-14'
-title: 'Software Developer'
+title: 'Founding Software Developer'
 company: 'House of web3'
 location: 'Bangalore'
 range: 'Aug 2023 - Present'

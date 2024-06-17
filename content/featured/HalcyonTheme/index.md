@@ -1,21 +1,21 @@
 ---
 date: '1'
-title: 'Content.Io'
-cover: './content.webp'
-github: 'https://github.com/RitulBhatnagar/newzz'
-external: 'https://newzz-frontend-568g.vercel.app/fe/about'
+title: 'Ecommerce-Shop'
+cover: './content.png'
+github: 'https://github.com/Kartikey353/BackendEcommerce'
+external: 'https://pickbazar-react-rest.vercel.app/'
 tech:
-  - Node.js
+  - Nest.js
   - Express.js
   - Serverless
   - Aws Lambda
   - Aws S3 Bucket
   - Aws EventBridge
-  - cron Job
-  - MongoDb
+  - Postgress
   - next.js
 ---
 
-🚀 Elevating Data Collection with Serverless Superpowers 🌐
-Harnessing the power of the cloud, our latest project revolutionizes how we fetch and manage data! 🌟 Here’s a snapshot of our tech magic: [Architecture](https://drive.google.com/file/d/1OImSb31QV8uYqp5iwQ5K7_Hpfcpm44Pk/view?usp=sharing)
+🚀• Developed eCommerce site using Next.js frontend framework for seamless user experiences.
+ • Implemented robust backend functionality with Nest.js to handle complex business logic.
+ • Leveraged Next.js SSR (Server-Side Rendering) for improved performance
 <b> 📌 This project majorly Focus on backend structure</b>

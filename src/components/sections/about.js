@@ -132,8 +132,10 @@ const About = () => {
     'TypeScript',
     'Rust',
     'Elastic Search',
-    'Amazon Web Services', 
-    'OpenAi',
+    'Amazon Web Services',  
+    'Solidity',
+    'Web3.js',
+    'Ether.js',
   ];
 
   return (

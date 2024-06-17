@@ -1,8 +1,8 @@
 ---
-date: '2'
+date: '3'
 title: 'Scalable Chat App'
 cover: './chat.webp'
-github: 'https://github.com/RitulBhatnagar/scalable-chat-app'
+github: 'https://github.com/Kartikey353/Scalable-Chat-app'
 tech:
   - Redis Pub/sub Model
   - Docker
