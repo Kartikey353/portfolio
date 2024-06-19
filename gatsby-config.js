@@ -5,9 +5,9 @@ module.exports = {
     title: 'Kartikey Bhardwaj',
     description:
       'Kartikey Bhardwaj is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@ritul_15',
+    siteUrl: 'https://kartikey-zeta.vercel.app/', // No trailing slash allowed!
+    image: '', // Path to your image you placed in the 'static' folder
+    twitterUsername: '@Kartikebhardwaj',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
