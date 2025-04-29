@@ -130,11 +130,15 @@ const About = () => {
     'Node.js',
     'JavaScript (ES6+)',
     'TypeScript',
-    'Rust',
     'Elastic Search',
     'Amazon Web Services',  
-    'Solidity',
-    'Web3.js',
+    'Solidity', 
+    'Python',
+    'Java',
+    'Spring Boot',
+    'PostgreSQL', 
+    'MongoDb', 
+    'AWS',
     'Ether.js',
   ];
 
@@ -155,8 +159,8 @@ const About = () => {
             <p>
               I have Completed my graduation in engineering with Computer Science and engineering degree.
               I joined engineering team at{' '}
-              <a href="https://houseofweb3.com/">House of Web3.</a> As a Backend Developer where I
-              am on different technologies and writing the code from the scratch.
+              <a href="https://houseofweb3.com/">Apna Vaidya a Healthcare tech startup.</a> As a Backend Developer there I
+              am working on different technologies and writing the code from the scratch.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

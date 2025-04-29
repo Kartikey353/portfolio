@@ -1,10 +1,10 @@
 ---
-date: '2018-05-14'
+date: '2024-04-22'
 title: 'Founding Software Developer'
 company: 'House of web3'
 location: 'Bangalore'
-range: 'Aug 2023 - Present'
-url: 'https://www.houseofweb3.com/'
+range: 'Aug 2023 - June 2024'
+url: 'https://apnavaidya.ai/en'
 ---
 
 - I played a key role in developing the Airdrops feature aimed at the Web3 community. This feature is designed to drive growth and engagement by utilizing a work-to-earn mechanism. By participating in community-driven activities, users can earn rewards, enhancing their engagement and loyalty.

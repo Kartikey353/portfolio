@@ -67,8 +67,8 @@ const Hero = () => {
       <p>
         I’m a software engineer specializing in building (and occasionally designing) exceptional
         digital experiences. Currently, I’m focused on Web3 Products, human-centered products at{' '}
-        <a href="https://www.houseofweb3.com/" target="_blank" rel="noreferrer">
-          House of web3
+        <a href="https://apnavaidya.ai/en" target="_blank" rel="noreferrer">
+          Apna Vaidya
         </a>
         .
       </p>

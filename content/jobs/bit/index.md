@@ -1,5 +1,5 @@
 ---
-date: '2016-12-21'
+date: '2023-05-21'
 title: 'Blockchain Developer- Intern'
 company: 'Beyond Imagination Technology pvt Ltd'
 location: 'Remote'
