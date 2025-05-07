@@ -4,10 +4,30 @@ module.exports = {
   siteMetadata: {
     title: 'Kartikey Bhardwaj',
     description:
-      'Kartikey Bhardwaj is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://kartikey-zeta.vercel.app/', // No trailing slash allowed!
-    image: '', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@Kartikebhardwaj',
+      'Kartikey Bhardwaj is a full-stack software developer skilled in Node.js, Python, blockchain, and cloud technologies, building scalable backend systems and modern web experiences.',
+    siteUrl: 'https://kartikey353.in',
+    image: '/me.png', // Update with actual image path if available
+    twitterUsername: '@Kartikebhardwaj', 
+    social: {
+      linkedin: 'kartikey-b-7b946218a',
+      codeforces: 'Kartikey_20cs',
+      leetcode: 'kartikey_20bhardwaj', 
+      codechef: 'kartikey_20cs', 
+      github:'Kartikey353'
+    },
+    keywords: [
+      'Kartikey',
+      'Kartikey Bhardwaj',
+      'Software Developer',
+      'Backend Developer',
+      'Full Stack Developer',
+      'Node.js Developer',
+      'Python Developer',
+      'Blockchain Developer',
+      'MERN Stack',
+      'AWS Developer',
+      'Gatsby Portfolio'
+    ],
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -150,9 +170,17 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingId: 'UA-45666519-2',
+        trackingIds: [
+          'G-6Q86R0N7JX', // Your GA4 Measurement ID
+        ], 
+        gtagConfig: {
+          anonymize_ip: true,
+        },
+        pluginConfig: {
+          head: true,
+        },
       },
     },
   ],
