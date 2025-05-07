@@ -173,7 +173,8 @@ module.exports = {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
         trackingIds: [
-          'G-6Q86R0N7JX', // Your GA4 Measurement ID
+          'G-6Q86R0N7JX',  
+          'G-Y1SJJJCNFE'// Your GA4 Measurement ID
         ], 
         gtagConfig: {
           anonymize_ip: true,
