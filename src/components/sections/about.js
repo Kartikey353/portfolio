@@ -159,7 +159,7 @@ const About = () => {
             <p>
               I have Completed my graduation in engineering with Computer Science and engineering degree.
               I joined engineering team at{' '}
-              <a href="https://houseofweb3.com/">Apna Vaidya a Healthcare tech startup.</a> As a Backend Developer there I
+              <a href="https://apnavaidya.ai/en/">Apna Vaidya a Healthcare tech startup.</a> As a Backend Developer there I
               am working on different technologies and writing the code from the scratch.
             </p>
 
