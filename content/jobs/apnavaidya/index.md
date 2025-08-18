@@ -1,9 +1,9 @@
 ---
-date: '2025-12-02'
+date: '2025-05-31'
 title: 'Software developer'
 company: 'Apna Vaidya'
 location: 'Bengaluru India'
-range: 'July 2024 - Present'
+range: 'July 2024 - May 2025'
 url: 'https://apnavaidya.ai/en'
 ---
 

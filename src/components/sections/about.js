@@ -158,9 +158,11 @@ const About = () => {
 
             <p>
               I have Completed my graduation in engineering with Computer Science and engineering degree.
-              I joined engineering team at{' '}
-              <a href="https://apnavaidya.ai/en/">Apna Vaidya a Healthcare tech startup.</a> As a Backend Developer there I
-              am working on different technologies and writing the code from the scratch.
+              I currently work as a Software Development Engineer at{' '}
+              <a href="https://www.amazon.com/">Amazon</a>, contributing to backend services.
+              Previously, I was part of the engineering team at{' '}
+              <a href="https://apnavaidya.ai/en/">Apna Vaidya</a>, a healthcare tech startup, where I
+              worked as a Backend Developer building systems from scratch.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
