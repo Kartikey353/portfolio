@@ -65,10 +65,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on Web3 Products, human-centered products at{' '}
-        <a href="https://apnavaidya.ai/en" target="_blank" rel="noreferrer">
-          Apna Vaidya
+        I’m a software engineer specializing in building and occasionally designing exceptional
+        digital experiences. Currently, I’m focused on Internal Products, human-centered products at{' '}
+        <a href="https://amazon.com" target="_blank" rel="noreferrer">
+          Amazon
         </a>
         .
       </p>
